@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "rc4.h": "c",
+        "rc4_encrypt.h": "c",
+        "rc4_decrypt.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "stdint.h": "c"
+    },
+    "C_Cpp.default.compilerPath": "/usr/bin/gcc",
+    "C_Cpp.default.cStandard": "c99",
+    "C_Cpp.default.cppStandard": "c++17",
+    "C_Cpp.default.intelliSenseMode": "gcc-x64",
+    "C_Cpp.errorSquiggles": "enabled",
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "files.encoding": "utf8"
+}
