@@ -1,0 +1,28 @@
+{
+    "recommendations": [
+        "ms-vscode.cpptools",
+        "ms-vscode.cpptools-extension-pack",
+        "ms-vscode.makefile-tools",
+        "jeff-hykin.better-c-syntax",
+        "ms-vscode.hexeditor"
+    ]
+}
+```
+
+## Cấu trúc thư mục hoàn chỉnh:
+```
+rc4-project/
+├── .vscode/
+│   ├── settings.json           # Cấu hình editor
+│   ├── c_cpp_properties.json   # Cấu hình IntelliSense
+│   ├── tasks.json              # Build tasks
+│   ├── launch.json             # Debug configurations
+│   └── extensions.json         # Extension recommendations
+├── rc4.h
+├── rc4.c
+├── rc4_encrypt.h
+├── rc4_decrypt.h
+├── main_encrypt.c
+├── main_decrypt.c
+├── Makefile
+└── README.md
