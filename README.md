@@ -373,10 +373,10 @@ MIT License - Free for educational purposes
 
 ## 👨‍🎓 Thông tin
 
-- **Môn học:** Mật mã học
+- **Môn học:** Lý thuyết mật mã
 - **Trường:** Hanoi University of Science and Technology (HUST)
 - **Mục đích:** Học tập và nghiên cứu thuật toán mã hóa
-- **Năm:** 2024
+- **Năm:** 2025
 
 ## 📚 Tài liệu tham khảo
 
@@ -426,4 +426,3 @@ A: Không nên. Các trình duyệt hiện đại đã loại bỏ RC4 khỏi SS
 
 **Lưu ý:** Code này được phát triển cho mục đích giáo dục. **KHÔNG** sử dụng RC4 trong các ứng dụng production đòi hỏi bảo mật cao! 🔒
 
-**Happy Coding! 🎉**
